@@ -13,4 +13,4 @@
 *Responsive design*
 
 ## Ссылка на проект
-[Посмотреть](bravers.github.io)
+[Посмотреть](https://bravers.github.io/russian-travel)
