@@ -1,1 +1,12 @@
-/**/
+
+.page {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #2A2C2F;
+  font-family: 'Inter', Helvetica, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
