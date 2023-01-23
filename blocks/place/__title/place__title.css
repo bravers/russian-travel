@@ -1,6 +1,7 @@
 .place__title {
   margin: 0;
-  align-self: end;
+  padding: 0;
+
   color: #fff;
   font-style:  normal;
   max-width: 460px;
@@ -18,7 +19,7 @@
 
 @media screen and (max-width: 767px) {
   .place__title {
-    margin: 0 auto;
+    margin: 0;
     font-size: 32px;
     padding-left: 16px;
   }
